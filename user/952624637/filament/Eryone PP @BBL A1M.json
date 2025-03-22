@@ -1,0 +1,19 @@
+{
+    "filament_settings_id": [
+        "Eryone PP @BBL A1M"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Generic PP @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "Eryone PP @BBL A1M",
+    "nozzle_temperature_range_high": [
+        "240"
+    ],
+    "version": "1.10.0.36"
+}
