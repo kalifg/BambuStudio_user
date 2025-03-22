@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "0.87514"
+    ],
+    "filament_settings_id": [
+        "Justmaker PC Flow Rate Calibrated"
+    ],
+    "from": "User",
+    "inherits": "Generic PC @BBL A1 mini",
+    "is_custom_defined": "0",
+    "name": "Justmaker PC Flow Rate Calibrated",
+    "version": "1.10.0.37"
+}

@@ -2542,6 +2542,14 @@
             "sub_path": "filament/Generic PC @BBL A1 0.2 nozzle.json"
         },
         {
+            "name": "Generic PC @BBL A1 mini",
+            "sub_path": "filament/Generic PC @BBL A1M.json"
+        },
+        {
+            "name": "Generic PC @BBL A1 mini 0.2 nozzle",
+            "sub_path": "filament/Generic PC @BBL A1M 0.2 nozzle.json"
+        },
+        {
             "name": "Bambu PC FR @BBL X1C",
             "sub_path": "filament/Bambu PC FR @BBL X1C.json"
         },

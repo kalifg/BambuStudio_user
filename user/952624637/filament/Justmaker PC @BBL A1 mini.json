@@ -1,0 +1,22 @@
+{
+    "filament_settings_id": [
+        "Justmaker PC @BBL A1 mini"
+    ],
+    "from": "User",
+    "inherits": "Generic PC @BBL A1 mini",
+    "is_custom_defined": "0",
+    "name": "Justmaker PC @BBL A1 mini",
+    "nozzle_temperature": [
+        "270"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "nozzle_temperature_range_high": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "version": "1.10.0.37"
+}
