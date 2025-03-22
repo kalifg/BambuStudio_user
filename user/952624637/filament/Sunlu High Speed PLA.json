@@ -1,0 +1,16 @@
+{
+    "filament_max_volumetric_speed": [
+        "50"
+    ],
+    "filament_settings_id": [
+        "Sunlu High Speed PLA"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA High Speed @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "Sunlu High Speed PLA",
+    "nozzle_temperature_range_high": [
+        "210"
+    ],
+    "version": "1.9.0.11"
+}

@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "0.784"
+    ],
+    "filament_settings_id": [
+        "Bambu PLA Basic Flow Rate Calibrated"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL A1M 0.2 nozzle",
+    "is_custom_defined": "0",
+    "name": "Bambu PLA Basic Flow Rate Calibrated",
+    "version": "1.8.0.27"
+}

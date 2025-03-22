@@ -1,0 +1,19 @@
+{
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "Tttyt3D PLA Silk"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA Silk @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "Tttyt3D PLA Silk",
+    "nozzle_temperature_range_high": [
+        "225"
+    ],
+    "nozzle_temperature_range_low": [
+        "205"
+    ],
+    "version": "1.9.0.11"
+}

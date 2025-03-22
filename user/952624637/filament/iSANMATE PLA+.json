@@ -1,0 +1,16 @@
+{
+    "filament_max_volumetric_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "iSANMATE PLA+"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "iSANMATE PLA+",
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "version": "1.9.0.11"
+}

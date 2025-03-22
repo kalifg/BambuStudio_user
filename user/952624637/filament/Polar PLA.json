@@ -1,0 +1,16 @@
+{
+    "filament_settings_id": [
+        "Polar PLA"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "Polar PLA",
+    "nozzle_temperature_range_high": [
+        "225"
+    ],
+    "nozzle_temperature_range_low": [
+        "205"
+    ],
+    "version": "1.9.0.11"
+}

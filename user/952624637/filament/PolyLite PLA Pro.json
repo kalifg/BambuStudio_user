@@ -1,0 +1,16 @@
+{
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "PolyLite PLA Pro"
+    ],
+    "from": "User",
+    "inherits": "PolyLite PLA @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "PolyLite PLA Pro",
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "version": "1.9.0.11"
+}

@@ -1,0 +1,14 @@
+{
+    "from": "User",
+    "inherits": "Bambu Lab A1 mini 0.2 nozzle",
+    "is_custom_defined": "0",
+    "name": "Bambu Lab A1 mini 0.2 nozzle - longer retraction",
+    "printer_settings_id": "Bambu Lab A1 mini 0.2 nozzle - longer retraction",
+    "retraction_length": [
+        "1"
+    ],
+    "retraction_speed": [
+        "40"
+    ],
+    "version": "1.8.0.27"
+}

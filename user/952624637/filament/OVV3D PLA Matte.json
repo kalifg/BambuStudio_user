@@ -1,0 +1,19 @@
+{
+    "filament_max_volumetric_speed": [
+        "25"
+    ],
+    "filament_settings_id": [
+        "OVV3D PLA Matte"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "OVV3D PLA Matte",
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "temperature_vitrification": [
+        "60"
+    ],
+    "version": "1.9.0.11"
+}

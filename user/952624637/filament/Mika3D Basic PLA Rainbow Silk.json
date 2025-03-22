@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "0.81144"
+    ],
+    "filament_settings_id": [
+        "Mika3D Basic PLA Rainbow Silk"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA Silk @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "Mika3D Basic PLA Rainbow Silk",
+    "version": "1.9.0.11"
+}
