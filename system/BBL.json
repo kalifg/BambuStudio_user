@@ -2442,6 +2442,14 @@
             "sub_path": "filament/Generic ABS @BBL A1 0.2 nozzle.json"
         },
         {
+            "name": "Generic ABS @BBL A1 mini",
+            "sub_path": "filament/Generic ABS @BBL A1M.json"
+        },
+        {
+            "name": "Generic ABS @BBL A1 mini 0.2 nozzle",
+            "sub_path": "filament/Generic ABS @BBL A1M 0.2 nozzle.json"
+        },
+        {
             "name": "PolyLite ABS @BBL X1C",
             "sub_path": "filament/PolyLite ABS @BBL X1C.json"
         },

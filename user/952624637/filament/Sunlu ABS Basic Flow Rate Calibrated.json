@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "0.7144"
+    ],
+    "filament_settings_id": [
+        "Sunlu ABS Basic Flow Rate Calibrated"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS @BBL A1 mini",
+    "is_custom_defined": "0",
+    "name": "Sunlu ABS Basic Flow Rate Calibrated",
+    "version": "1.10.0.37"
+}
