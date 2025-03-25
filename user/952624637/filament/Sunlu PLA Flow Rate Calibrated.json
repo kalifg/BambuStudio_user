@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "0.75264"
+    ],
+    "filament_settings_id": [
+        "Sunlu PLA Flow Rate Calibrated"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "Sunlu PLA Flow Rate Calibrated",
+    "version": "1.10.0.39"
+}
