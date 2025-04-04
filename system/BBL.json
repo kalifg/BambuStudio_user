@@ -2878,6 +2878,10 @@
             "sub_path": "filament/Generic PA @BBL A1.json"
         },
         {
+            "name": "Generic PA @BBL A1 mini",
+            "sub_path": "filament/Generic PA @BBL A1M.json"
+        },
+        {
             "name": "Generic PA-CF @BBL X1E",
             "sub_path": "filament/Generic PA-CF @BBL X1E.json"
         },
